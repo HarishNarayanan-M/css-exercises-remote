@@ -24,6 +24,7 @@ body {
   background: #e3f4ff;
   margin-top: 8px;
   padding:8px;
+  text-align: center;
 }
 
 button {
@@ -31,4 +32,5 @@ button {
   border: 1px solid #eee;
   padding: 8px 24px;
   display: block;
+  margin: auto;
 }
