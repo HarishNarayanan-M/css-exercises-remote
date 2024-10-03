@@ -55,5 +55,6 @@ ul {
 .right-header,.left-header{
   display: flex;
   gap: 16px;
+  align-items: center;
 }
 
